@@ -120,7 +120,7 @@ First, I visualize the cluster and you can see the clustered map below:
 Next, I visualize the Average house pricing on the map by using Folium choropleth map and clusters on the top.
 
 
-![Alt text](https://github.com/FrederickWilliams/MSDS692-Data-Science-Practicum/blob/master/MSDS692%20Data%20Science%20Practicum/pic16.png)
+![Alt text](https://github.com/FrederickWilliams/MSDS692-Data-Science-Practicum/blob/master/MSDS692%20Data%20Science%20Practicum/data_pics/pic16.png)
 
 # Result
 
