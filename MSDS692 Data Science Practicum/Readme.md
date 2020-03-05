@@ -22,7 +22,7 @@ To consider the above problem the data is collected as following:
 * I found a list inner cities and zip codes as they relate to the Birmingham metropolitan area from BestPlaces.net which is a website created to offer information about cities and zip codes in the United States [1].
 * For housing prices, I searched and found a great local real estate website where latest Birmingham metropolitan area house prices were available with zip codes [2].
 * I used Forsquare API to get the most common venues of given Birmingham metropolitan area [3].
-* For choropleth maps I used .geojson file of Birmingham zrea zip code boundaries [4].
+* For choropleth maps I used .geojson file of Birmingham area zip code boundaries [4].
 
 
 # Data Preprocessing
