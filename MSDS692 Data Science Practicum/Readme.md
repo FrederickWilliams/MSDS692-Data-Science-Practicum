@@ -75,7 +75,7 @@ Finally, by using the Foursquare API in conjunction with the created datasets, a
 
 # Machine Learning 
 
-We have some common venue categories in boroughs. In this reason I used unsupervised learning K-means algorithm to cluster the boroughs. K-Means algorithm is one of the most common cluster method of unsupervised learning.
+We have some common venue categories in the inner cities of Birmingham. In this reason I used unsupervised learning K-means algorithm to cluster the inner cities. K-Means algorithm is one of the most common cluster method of unsupervised learning.
 First, I will run K-Means to cluster the inner cities into 5 clusters because the county (Jefferson county) which Greater Birmingham resides in has five county commissioners. As a result, when I analyze the K-Means with elbow method it ensured me the 5 degree for optimum k of the K-Means.
 
 
