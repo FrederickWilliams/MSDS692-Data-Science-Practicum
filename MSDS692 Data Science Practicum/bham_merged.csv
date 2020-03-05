@@ -1,0 +1,206 @@
+Unnamed: 0,City,Latitude,Longitude,Zip_Code,Avg_Price,Cluster_Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,Price_Categories,Cluster_Category
+0,Adamsville,33.520680000000034,-86.81175999999996,35006,115000.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+1,Adamsville,33.53221000000008,-86.99630999999994,35005,115334.48,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+2,Adger,33.469838066241785,-86.97306427774134,35023,155900.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+3,Adger,33.520680000000034,-86.81175999999996,35006,80967.14,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+4,Alabaster,33.520680000000034,-86.81175999999996,35007,298403.57,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+5,Alabaster,33.520680000000034,-86.81175999999996,35051,1100000.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Average level,Sports and Recreations
+6,Alabaster,33.520680000000034,-86.81175999999996,35114,250014.29,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+7,Ashville,33.520680000000034,-86.81175999999996,35953,154656.57,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+8,Bessemer,33.410996423715034,-86.90210606951142,35022,384730.79,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+9,Bessemer,33.44012731247806,-86.93374787180235,35020,96909.77,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+10,Bessemer,33.469838066241785,-86.97306427774134,35023,164463.23,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+11,Bessemer,33.49131200000005,-86.72123859999996,35223,599900.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+12,Bessemer,33.519490000000076,-86.80915999999996,35203,161900.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+13,Birmingham,33.35210467400003,-86.84716887799999,35244,1082450.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Average level,Sports and Recreations
+14,Birmingham,33.393362800000034,-86.85278759999994,35226,369000.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+15,Birmingham,33.39727620000008,-86.68311079999997,35242,1426330.95,3,Theater,Bar,American Restaurant,Lounge,Hotel,Average level,Sports and Recreations
+16,Birmingham,33.410996423715034,-86.90210606951142,35022,256276.67,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+17,Birmingham,33.417701400000055,-86.78756219999997,35216,236783.33,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+18,Birmingham,33.441190000000056,-86.73712575699993,35243,412308.33,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+19,Birmingham,33.442182600000024,-86.92437479999997,35228,67081.25,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+20,Birmingham,33.451265000000035,-86.90003499999996,35221,35926.67,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+21,Birmingham,33.461235000000045,-86.86026499999996,35211,149449.38,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+22,Birmingham,33.46438500000005,-86.82058040299995,35209,637755.44,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+23,Birmingham,33.471071935354836,-86.97418531214586,35127,100000.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+24,Birmingham,33.48483814308948,-86.90473998290621,35064,88900.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+25,Birmingham,33.49131200000005,-86.72123859999996,35223,484990.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+26,Birmingham,33.494755000000055,-86.81235999999996,35205,309619.61,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+27,Birmingham,33.500212600000054,-86.87447449999996,35208,85918.74,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+28,Birmingham,33.507205000000056,-86.89489499999996,35218,110144.74,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+29,Birmingham,33.507393300000054,-86.74032389999996,35213,563770.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+30,Birmingham,33.508075000000076,-86.80417999999996,35233,291145.45,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+31,Birmingham,33.512904500000054,-86.92607539999996,35224,63883.89,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+32,Birmingham,33.519490000000076,-86.80915999999996,35203,680310.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+33,Birmingham,33.520680000000034,-86.81175999999996,35043,1650000.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Above Average,Sports and Recreations
+34,Birmingham,33.520680000000034,-86.81175999999996,35071,160000.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+35,Birmingham,33.520680000000034,-86.81175999999996,35073,15500.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+36,Birmingham,33.522015000000074,-86.84558999999996,35204,100094.29,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+37,Birmingham,33.522546400000074,-86.76820149999998,35222,310506.1,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+38,Birmingham,33.532384585062516,-86.99675362257753,35118,98325.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+39,Birmingham,33.54345700000005,-86.80233949999996,35234,211400.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+40,Birmingham,33.54713730000003,-86.67295219999994,35210,300057.69,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+41,Birmingham,33.548406300000075,-86.74946239999996,35212,196758.09,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+42,Birmingham,33.565025000000055,-86.81522499999994,35207,65905.88,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+43,Birmingham,33.565800000000024,-86.71309499999997,35206,119161.24,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+44,Birmingham,33.57232400000004,-86.89077649999996,35214,108174.02,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+45,Birmingham,33.60107925493589,-86.85563330164105,35068,29900.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+46,Birmingham,33.60569103200004,-86.75777999999997,35217,127685.1,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+47,Birmingham,33.623185000000035,-86.64953499999996,35235,280133.7,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+48,Birmingham,33.64139000000006,-86.69831499999998,35215,189917.02,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+49,Blount Springs,33.520680000000034,-86.81175999999996,35079,20285.71,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+50,Blountsville,33.520680000000034,-86.81175999999996,35031,202779.7,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+51,Brent,33.520680000000034,-86.81175999999996,35034,211565.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+52,Brierfield,33.520680000000034,-86.81175999999996,35035,373950.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+53,Brighton,33.44012731247806,-86.93374787180235,35020,7500.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+54,Brookwood,33.520680000000034,-86.81175999999996,35111,550000.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+55,Cahaba Heights,33.417701400000055,-86.78756219999997,35216,185000.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+56,Calera,33.520680000000034,-86.81175999999996,35040,369395.79,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+57,Carbon Hill,33.520680000000034,-86.81175999999996,35549,1700000.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Above Average,Sports and Recreations
+58,Center Point,33.64139000000006,-86.69831499999998,35215,167401.31,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+59,Centreville,32.95366362138794,-87.14511241355787,35042,176000.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+60,Centreville,33.520680000000034,-86.81175999999996,35034,199500.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+61,Chelsea,33.520680000000034,-86.81175999999996,35043,557764.2,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+62,Chelsea,33.520680000000034,-86.81175999999996,35051,74966.67,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+63,Chelsea,33.520680000000034,-86.81175999999996,35078,635000.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+64,Chelsea,33.520680000000034,-86.81175999999996,35147,190850.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Sports and Recreations
+65,Chelsea,33.520680000000034,-86.81175999999996,35186,830500.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Average level,Sports and Recreations
+66,Chula Vista,33.515555449090165,-86.62182657871547,35094,750000.0,3,Theater,Bar,American Restaurant,Lounge,Hotel,Average level,Sports and Recreations
+67,Clanton,33.520680000000034,-86.81175999999996,35045,334474.74,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+68,Clanton,33.520680000000034,-86.81175999999996,35046,192125.21,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+69,Clanton,33.520680000000034,-86.81175999999996,36091,339000.0,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+70,Clay,33.64139000000006,-86.69831499999998,35215,216900.0,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+71,Clay,33.67726577594485,-86.68162124818123,35126,349600.0,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+72,Cleveland,33.520680000000034,-86.81175999999996,35049,112875.0,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+73,Columbiana,33.520680000000034,-86.81175999999996,35051,284451.32,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+74,Columbiana,33.520680000000034,-86.81175999999996,35078,189900.0,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+75,Cordova,33.520680000000034,-86.81175999999996,35550,53120.0,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+76,Cropwell,33.520680000000034,-86.81175999999996,35054,320447.16,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+77,Docena,33.520680000000034,-86.81175999999996,35060,29950.0,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+78,Docena,33.60569103200004,-86.75777999999997,35217,24900.0,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+79,Dolomite,33.46817760282261,-86.95944623626622,35061,52860.0,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+80,Dora,33.520680000000034,-86.81175999999996,35062,137354.27,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+81,Empire,33.520680000000034,-86.81175999999996,35063,162662.5,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+82,Fairfield,33.48483814308948,-86.90473998290621,35064,61947.12,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+83,Fairfield,33.60569103200004,-86.75777999999997,35217,44000.0,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+84,Fultondale,33.60107925493589,-86.85563330164105,35068,179631.22,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+85,Fultondale,33.60569103200004,-86.75777999999997,35217,53300.0,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+86,Gallant,33.520680000000034,-86.81175999999996,35146,198500.0,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+87,Gardendale,33.520680000000034,-86.81175999999996,35071,375786.75,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+88,Gardendale,33.60569103200004,-86.75777999999997,35217,165900.0,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+89,Gardendale,33.619365957663256,-86.87422180553509,35117,300000.0,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+90,Graysville,33.520680000000034,-86.81175999999996,35073,49218.42,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+91,Graysville,33.57232400000004,-86.89077649999996,35214,47000.0,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+92,Harpersville,33.520680000000034,-86.81175999999996,35078,273218.42,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+93,Hayden,33.520680000000034,-86.81175999999996,35079,161491.94,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+94,Hayden,33.520680000000034,-86.81175999999996,35180,457450.0,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+95,Helena,33.410996423715034,-86.90210606951142,35022,3641525.81,0,Theater,Bar,American Restaurant,Lounge,Hotel,High level 2,Mixed Social Venues
+96,Helena,33.520680000000034,-86.81175999999996,35080,378719.38,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+97,Helena,33.520680000000034,-86.81175999999996,35111,444900.0,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+98,Homewood,33.393362800000034,-86.85278759999994,35226,379900.0,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+99,Homewood,33.417701400000055,-86.78756219999997,35216,680950.0,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+100,Homewood,33.46438500000005,-86.82058040299995,35209,520898.86,0,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Mixed Social Venues
+101,Hoover,33.35210467400003,-86.84716887799999,35244,764193.45,4,Theater,Bar,American Restaurant,Lounge,Hotel,Average level,Restaurants and Bars
+102,Hoover,33.393362800000034,-86.85278759999994,35226,580051.3,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+103,Hoover,33.39727620000008,-86.68311079999997,35242,1192647.62,4,Theater,Bar,American Restaurant,Lounge,Hotel,Average level,Restaurants and Bars
+104,Hoover,33.410996423715034,-86.90210606951142,35022,394633.33,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+105,Hoover,33.417701400000055,-86.78756219999997,35216,321900.0,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+106,Hoover,33.520680000000034,-86.81175999999996,35080,412449.5,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+107,Hoover,33.565800000000024,-86.71309499999997,35206,327900.0,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+108,Hueytown,33.469838066241785,-86.97306427774134,35023,164174.0,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+109,Indian Springs Village,33.308437600000055,-86.74208769999996,35124,1470246.67,4,Theater,Bar,American Restaurant,Lounge,Hotel,Above Average,Restaurants and Bars
+110,Indian Springs Village,33.39727620000008,-86.68311079999997,35242,2499000.0,4,Theater,Bar,American Restaurant,Lounge,Hotel,High level 1,Restaurants and Bars
+111,Irondale,33.49131200000005,-86.72123859999996,35223,62428.43,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+112,Irondale,33.54713730000003,-86.67295219999994,35210,318831.57,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+113,Jasper,33.520680000000034,-86.81175999999996,35503,161700.0,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+114,Jasper,33.520680000000034,-86.81175999999996,35504,279965.79,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+115,Jasper,33.844960818452016,-87.27365619329937,35501,1711422.22,4,Theater,Bar,American Restaurant,Lounge,Hotel,Above Average,Restaurants and Bars
+116,Jemison,33.520680000000034,-86.81175999999996,35085,240967.57,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+117,Kimberly,33.520680000000034,-86.81175999999996,35071,245000.0,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+118,Kimberly,33.520680000000034,-86.81175999999996,35091,264163.8,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+119,Lake View,33.520680000000034,-86.81175999999996,35111,259760.0,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+120,Lakeview,33.520680000000034,-86.81175999999996,35006,23500.0,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+121,Lakeview,33.520680000000034,-86.81175999999996,35111,262000.0,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+122,Lawley,33.520680000000034,-86.81175999999996,36793,196950.0,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+123,Leeds,33.515555449090165,-86.62182657871547,35094,254919.2,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+124,Leeds,33.520680000000034,-86.81175999999996,35004,1410000.0,4,Theater,Bar,American Restaurant,Lounge,Hotel,Average level,Restaurants and Bars
+125,Leeds,33.520680000000034,-86.81175999999996,35128,250000.0,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+126,Leeds,33.54713730000003,-86.67295219999994,35210,264900.0,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+127,Lipscomb,33.44012731247806,-86.93374787180235,35020,65000.0,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+128,Locust Fork,33.520680000000034,-86.81175999999996,35049,140000.0,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+129,Locust Fork,33.520680000000034,-86.81175999999996,35097,97250.0,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+130,Maplesville,33.520680000000034,-86.81175999999996,36750,122313.04,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+131,Marbury,33.520680000000034,-86.81175999999996,36091,42000.0,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+132,Margaret,33.520680000000034,-86.81175999999996,35120,189673.12,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+133,Maylene,33.520680000000034,-86.81175999999996,35007,179900.0,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+134,Maylene,33.520680000000034,-86.81175999999996,35114,226888.24,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+135,McCalla,33.410996423715034,-86.90210606951142,35022,316666.67,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+136,McCalla,33.44012731247806,-86.93374787180235,35020,290191.57,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+137,McCalla,33.461235000000045,-86.86026499999996,35211,60000.0,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+138,McCalla,33.520680000000034,-86.81175999999996,35111,347757.13,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+139,Midfield,33.442182600000024,-86.92437479999997,35228,43225.64,4,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Restaurants and Bars
+140,Minor,33.512904500000054,-86.92607539999996,35224,107900.0,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+141,Montevallo,33.07789343695876,-86.87718007058812,35115,200288.95,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+142,Montevallo,33.520680000000034,-86.81175999999996,35007,321300.0,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+143,Moody,33.515555449090165,-86.62182657871547,35094,524000.0,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+144,Moody,33.520680000000034,-86.81175999999996,35004,281775.94,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+145,Morris,33.520680000000034,-86.81175999999996,35116,245923.68,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+146,Mount Olive,33.619365957663256,-86.87422180553509,35117,180867.02,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+147,Mountain Brook,33.417701400000055,-86.78756219999997,35216,369900.0,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+148,Mountain Brook,33.441190000000056,-86.73712575699993,35243,910862.5,2,Theater,Bar,American Restaurant,Lounge,Hotel,Average level,Stores and Plazas
+149,Mountain Brook,33.49131200000005,-86.72123859999996,35223,769025.12,2,Theater,Bar,American Restaurant,Lounge,Hotel,Average level,Stores and Plazas
+150,Mountain Brook,33.507393300000054,-86.74032389999996,35213,973871.84,2,Theater,Bar,American Restaurant,Lounge,Hotel,Average level,Stores and Plazas
+151,Mountain Brook,33.54713730000003,-86.67295219999994,35210,449000.0,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+152,Mulga,33.532384585062516,-86.99675362257753,35118,73675.0,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+153,Nauvoo,33.520680000000034,-86.81175999999996,35578,37521.43,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+154,New Castle,33.60569103200004,-86.75777999999997,35217,6000.0,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+155,Oak Grove,33.469838066241785,-86.97306427774134,35023,199966.67,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+156,Oak Grove,33.532384585062516,-86.99675362257753,35118,114900.0,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+157,Odenville,33.520680000000034,-86.81175999999996,35120,320122.05,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+158,Odenville,33.520680000000034,-86.81175999999996,35125,28900.0,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+159,Oneonta,33.520680000000034,-86.81175999999996,35121,277587.86,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+160,Parrish,33.520680000000034,-86.81175999999996,35580,53100.0,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+161,Pelham,33.308437600000055,-86.74208769999996,35124,437972.5,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+162,Pelham,33.520680000000034,-86.81175999999996,35043,397266.67,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+163,Pell City,33.520680000000034,-86.81175999999996,35125,274661.48,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+164,Pell City,33.520680000000034,-86.81175999999996,35128,252170.09,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+165,Pinson,33.67726577594485,-86.68162124818123,35126,207913.83,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+166,Pleasant Grove,33.471071935354836,-86.97418531214586,35127,121832.5,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+167,Pleasant Grove,33.60569103200004,-86.75777999999997,35217,169900.0,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+168,Quinton,33.59788829852978,-87.10614843084541,35130,83893.75,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+169,Ragland,33.520680000000034,-86.81175999999996,35131,268953.85,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+170,Ragland,33.520680000000034,-86.81175999999996,35953,24000.0,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+171,Randolph,33.520680000000034,-86.81175999999996,36792,239900.0,2,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Stores and Plazas
+172,Remlap,33.520680000000034,-86.81175999999996,35133,185219.04,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+173,Riverside,33.520680000000034,-86.81175999999996,35135,215627.75,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+174,Shelby,33.520680000000034,-86.81175999999996,35143,193972.09,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+175,Springville,33.520680000000034,-86.81175999999996,35146,303925.09,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+176,Steele,33.520680000000034,-86.81175999999996,35987,150950.0,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+177,Sterrett,33.520680000000034,-86.81175999999996,35147,241195.54,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+178,Sumiton,33.520680000000034,-86.81175999999996,35148,149400.0,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+179,Sylvan Springs,33.532384585062516,-86.99675362257753,35118,65100.0,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+180,Tarrant,33.60569103200004,-86.75777999999997,35217,46087.5,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+181,Thorsby,33.520680000000034,-86.81175999999996,35171,149608.0,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+182,Trafford,33.520680000000034,-86.81175999999996,35172,120050.0,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+183,Trussville,33.56890329357493,-86.61662759175537,35173,599843.55,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+184,Trussville,33.623185000000035,-86.64953499999996,35235,432225.0,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+185,Vandiver,33.520680000000034,-86.81175999999996,35176,592316.5,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+186,Verbena,33.520680000000034,-86.81175999999996,36091,218560.61,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+187,Vestavia Hills,33.393362800000034,-86.85278759999994,35226,456210.0,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+188,Vestavia Hills,33.39727620000008,-86.68311079999997,35242,973828.57,1,Theater,Bar,American Restaurant,Lounge,Hotel,Average level,Hotels and Social Venues
+189,Vestavia Hills,33.417701400000055,-86.78756219999997,35216,616700.0,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+190,Vestavia Hills,33.441190000000056,-86.73712575699993,35243,608894.37,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+191,Vestavia Hills,33.49131200000005,-86.72123859999996,35223,612175.0,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+192,Vestavia Hills,33.67726577594485,-86.68162124818123,35126,349900.0,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+193,Vincent,33.520680000000034,-86.81175999999996,35078,175000.0,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+194,Vincent,33.520680000000034,-86.81175999999996,35178,205021.16,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+195,Warrior,33.520680000000034,-86.81175999999996,35180,203407.89,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+196,West Blocton,33.520680000000034,-86.81175999999996,35184,90752.5,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+197,Westover,33.520680000000034,-86.81175999999996,35078,850000.0,1,Theater,Bar,American Restaurant,Lounge,Hotel,Average level,Hotels and Social Venues
+198,Westover,33.520680000000034,-86.81175999999996,35147,298833.33,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+199,Westover,33.520680000000034,-86.81175999999996,35186,204900.0,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+200,Wilsonville,33.520680000000034,-86.81175999999996,35051,324900.0,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+201,Wilsonville,33.520680000000034,-86.81175999999996,35186,178830.08,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+202,Wilsonville,33.520680000000034,-86.81175999999996,35187,383345.0,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
+203,Woodstock,33.520680000000034,-86.81175999999996,35111,1400000.0,1,Theater,Bar,American Restaurant,Lounge,Hotel,Average level,Hotels and Social Venues
+204,Woodstock,33.520680000000034,-86.81175999999996,35188,187625.0,1,Theater,Bar,American Restaurant,Lounge,Hotel,Low level,Hotels and Social Venues
