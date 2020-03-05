@@ -31,45 +31,45 @@ First of all, the data scraped from Bestplaces.net with the use of Gazpacho whic
 
 Then, I removed all the hyperlinks and there are more than one zip code for some locations (mainly Birmingham itself) so I decided to keep them to ensure fairness because like in all major metropolitan areas, there are good and bad parts of it
 
-![Alt text](C:/Users/frede/OneDrive - Regis University/MSDS_692/data_pics/pic2.png)
+![Alt text](https://github.com/FrederickWilliams/MSDS692-Data-Science-Practicum/blob/master/MSDS692%20Data%20Science%20Practicum/data_pics/pic2.png)
 
 The next source of data the I retrieved was that of the housing prices and that the data initially looked like this:
 
-![Alt text](C:/Users/frede/OneDrive - Regis University/MSDS_692/data_pics/pic3.png)
+![Alt text](https://github.com/FrederickWilliams/MSDS692-Data-Science-Practicum/blob/master/MSDS692%20Data%20Science%20Practicum/data_pics/pic3.png)
 
 Again, after some data processing, I was able to convert this raw json data into a readable data frame.
 
-![Alt text](C:/Users/frede/OneDrive - Regis University/MSDS_692/data_pics/pic4.png)
+![Alt text](https://github.com/FrederickWilliams/MSDS692-Data-Science-Practicum/blob/master/MSDS692%20Data%20Science%20Practicum/data_pics/pic4.png)
 
 However, this data frame needs to be cleaned and to do that I removed all null values and then get rid of unwanted columns and only kept columns consisting of  the “City”, “Zip_Code” and “Price” which I later named these columns. In addition, the “Price” column data type was a string, so I converted it to a numeric.
 
-![Alt text](C:/Users/frede/OneDrive - Regis University/MSDS_692/data_pics/pic5.png)
+![Alt text](https://github.com/FrederickWilliams/MSDS692-Data-Science-Practicum/blob/master/MSDS692%20Data%20Science%20Practicum/data_pics/pic5.png)
 
 After cleaning two tables I performed inner join and merge two tables on their zip codes and from resulting table, it produced double cities. So, I dropped “City_x” column and renamed and made “City_y” the main city column.
 
 Before | After
 --- | --- |
-![Alt text](C:/Users/frede/OneDrive - Regis University/MSDS_692/data_pics/pic6a.png) | ![Alt text](C:/Users/frede/OneDrive - Regis University/MSDS_692/data_pics/pic6b.png) |
+![Alt text](https://github.com/FrederickWilliams/MSDS692-Data-Science-Practicum/blob/master/MSDS692%20Data%20Science%20Practicum/data_pics/pic6a.png) | ![Alt text](https://github.com/FrederickWilliams/MSDS692-Data-Science-Practicum/blob/master/MSDS692%20Data%20Science%20Practicum/data_pics/pic6b.png) |
 
 Then by using geocoder library I find the longitudes and latitudes of the inner-city locations and added each as a column to my data frame.
 
-![Alt text](C:/Users/frede/OneDrive - Regis University/MSDS_692/data_pics/pic7.png)
+![Alt text](https://github.com/FrederickWilliams/MSDS692-Data-Science-Practicum/blob/master/MSDS692%20Data%20Science%20Practicum/data_pics/pic7.png)
 
 I used python Folium library to visualize geographic details of the Birmingham metropolitan area and I created a map of the Greater Birmingham superimposed on top. I used latitude and longitude values to get the visual as below:
 
-![Alt text](C:/Users/frede/OneDrive - Regis University/MSDS_692/data_pics/pic8.png)
+![Alt text](https://github.com/FrederickWilliams/MSDS692-Data-Science-Practicum/blob/master/MSDS692%20Data%20Science%20Practicum/data_pics/pic8.png)
 
 Next, I utilized the Foursquare API to explore the inner cities of Greater Birmingham and segment them. I designed the limit as 100 venue and the radius 500 meter for each city from their given latitude and longitude information. Here is a head of the list venues name, category, latitude and longitude information from Foursquare API.
 
-![Alt text](C:/Users/frede/OneDrive - Regis University/MSDS_692/data_pics/pic9.png)
+![Alt text](https://github.com/FrederickWilliams/MSDS692-Data-Science-Practicum/blob/master/MSDS692%20Data%20Science%20Practicum/data_pics/pic9.png)
 
 I repeat the process for all location and venue count of each locations etc. are: 
 
-![Alt text](C:/Users/frede/OneDrive - Regis University/MSDS_692/data_pics/pic10.png)
+![Alt text](https://github.com/FrederickWilliams/MSDS692-Data-Science-Practicum/blob/master/MSDS692%20Data%20Science%20Practicum/data_pics/pic10.png)
 
 Finally, by using the Foursquare API in conjunction with the created datasets, a table of most common visited venues of the Greater Birmingham inner cities is generated.
 
-![Alt text](C:/Users/frede/OneDrive - Regis University/MSDS_692/data_pics/pic11.png)
+![Alt text](https://github.com/FrederickWilliams/MSDS692-Data-Science-Practicum/blob/master/MSDS692%20Data%20Science%20Practicum/data_pics/pic11.png)
 
 # Machine Learning 
 
@@ -77,7 +77,7 @@ We have some common venue categories in boroughs. In this reason I used unsuperv
 First, I will run K-Means to cluster the inner cities into 5 clusters because the county (Jefferson county) which Greater Birmingham resides in has five county commissioners. As a result, when I analyze the K-Means with elbow method it ensured me the 5 degree for optimum k of the K-Means.
 
 
-![Alt text](C:/Users/frede/OneDrive - Regis University/MSDS_692/data_pics/pic12.png)
+![Alt text](https://github.com/FrederickWilliams/MSDS692-Data-Science-Practicum/blob/master/MSDS692%20Data%20Science%20Practicum/data_pics/pic12.png)
 
 Then I merged table with cluster labels for each inner city and after examining each cluster I label each cluster as follows:
 1.	Mixed Social Venues
@@ -90,7 +90,7 @@ Then I merged table with cluster labels for each inner city and after examining 
 I also visualize house prices of each location:
 
 
-![Alt text](C:/Users/frede/OneDrive - Regis University/MSDS_692/data_pics/pic13.png)
+![Alt text](https://github.com/FrederickWilliams/MSDS692-Data-Science-Practicum/blob/master/MSDS692%20Data%20Science%20Practicum/data_pics/pic13.png)
 
 As it seems in above histogram, we can define the ranges as below:
 
@@ -103,13 +103,13 @@ As it seems in above histogram, we can define the ranges as below:
 Resulting table:
 
 
-![Alt text](C:/Users/frede/OneDrive - Regis University/MSDS_692/data_pics/pic14.png)
+![Alt text](https://github.com/FrederickWilliams/MSDS692-Data-Science-Practicum/blob/master/MSDS692%20Data%20Science%20Practicum/data_pics/pic14.png)
 
 # Visualization
 
 First, I visualize the cluster and you can see the clustered map below:
 
-![Alt text](C:/Users/frede/OneDrive - Regis University/MSDS_692/data_pics/pic15.png)
+![Alt text](https://github.com/FrederickWilliams/MSDS692-Data-Science-Practicum/blob/master/MSDS692%20Data%20Science%20Practicum/data_pics/pic15.png)
 
 1.	Red (cluster 0)
 2.	Purple (cluster 1)
@@ -120,7 +120,7 @@ First, I visualize the cluster and you can see the clustered map below:
 Next, I visualize the Average house pricing on the map by using Folium choropleth map and clusters on the top.
 
 
-![Alt text](C:/Users/frede/OneDrive - Regis University/MSDS_692/data_pics/pic16.png)
+![Alt text](https://github.com/FrederickWilliams/MSDS692-Data-Science-Practicum/blob/master/MSDS692%20Data%20Science%20Practicum/pic16.png)
 
 # Result
 
