@@ -27,7 +27,7 @@ To consider the above problem the data is collected as following:
 
 First of all, the data scraped from Bestplaces.net with the use of Gazpacho which is a web scraping library and then have the data clean from its raw data format.
 
-![Alt text](C:/Users/frede/OneDrive - Regis University/MSDS_692/data_pics/pic1.png)
+![Alt text](https://github.com/FrederickWilliams/MSDS692-Data-Science-Practicum/blob/master/MSDS692%20Data%20Science%20Practicum/data_pics/pic1.png)
 
 Then, I removed all the hyperlinks and there are more than one zip code for some locations (mainly Birmingham itself) so I decided to keep them to ensure fairness because like in all major metropolitan areas, there are good and bad parts of it
 
