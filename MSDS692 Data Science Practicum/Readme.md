@@ -1,3 +1,5 @@
+#Real Estate Prices & Venues Data Analysis of Birmingham, Alabama
+
 This readme contains the following steps that were required to complete this Data Science project:
 1.	Problem statement
 2.	Data Collection
