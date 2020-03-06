@@ -126,7 +126,7 @@ Next, I visualize the Average house pricing on the map by using Folium choroplet
 
 # Result
 
-I came to the result that the house prices in the southeast and with hotels and social Venues nearby are very high you can clearly visualize in the map above while in the suburbs and the neighborhoods away from the city center have lower prices but the facilities are also good. Almost all low-price neighborhoods are close to restaurants, bars, sports facilities etc. Some inner cities such as Mountain Brook, and Vestavia Hills and Hoover have very high house prices. Bessemer, Fairfield, and Chelsea have very low house prices but have good venues to visit nearby.
+I came to the result that the house prices in the southeast and with hotels and social venues nearby are very high you can clearly visualize in the map above while in the suburbs and the neighborhoods away from the city center have lower prices but the facilities are also good. Almost all low-price neighborhoods are close to restaurants, bars, sports facilities etc. Some inner cities such as Mountain Brook, and Vestavia Hills and Hoover have very high house prices. Bessemer, Fairfield, and Chelsea have very low house prices but have good venues to visit nearby.
 
 ## Conclusion
 
